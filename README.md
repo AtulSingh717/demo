@@ -4,4 +4,4 @@ This is a simple file
 
 ##Heading 2
 
-Just an update, to a new branch
+Just an update.
